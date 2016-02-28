@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherCard</string>
+    <string name="imperial_settings">Celsius/Fahrenheit</string>
+    <string name="refresh">Refresh</string>
+</resources>
